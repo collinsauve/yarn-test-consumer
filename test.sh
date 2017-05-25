@@ -12,7 +12,7 @@ ls ./node_modules/yarn-test-package/ | grep /
 second=$(find ./node_modules/yarn-test-package/ -type d)
 
 
-echo After initial install, these artifact folders exist:
+echo After initial install, these folders exist:
 echo $first
-echo After second install, these artifact folders exist:
+echo After second install, these folders exist:
 echo $second
