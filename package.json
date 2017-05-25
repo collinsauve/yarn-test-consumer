@@ -8,6 +8,7 @@
     "url": "git+https://github.com/collinsauve/yarn-test.git"
   },
   "dependencies": {
+    "promisify": "^0.0.3",
     "yarn-test-package": "git+ssh://git@github.com:collinsauve/yarn-test-package.git"
   },
   "author": "Collin Sauve",
