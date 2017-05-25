@@ -9,7 +9,7 @@
     "url": "git+https://github.com/collinsauve/yarn-test.git"
   },
   "dependencies": {
-    "package": "git+ssh://git@github.com:collinsauve/yarn-test-package.git"
+    "yarn-test-package": "git+ssh://git@github.com:collinsauve/yarn-test-package.git"
   },
   "author": "Collin Sauve",
   "license": "Apache"
