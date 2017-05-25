@@ -4,4 +4,4 @@
 
 "yarn-test-package@git+ssh://git@github.com:collinsauve/yarn-test-package.git":
   version "0.0.1"
-  resolved "git+ssh://git@github.com:collinsauve/yarn-test-package.git#25f711546fd1f1312b02f9d577771dbcdcb103bb"
+  resolved "git+ssh://git@github.com:collinsauve/yarn-test-package.git#92992b4bdfa60aeaf7a4ef65cf3ff8c1c390e678"
