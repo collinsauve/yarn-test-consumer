@@ -2,8 +2,7 @@
   "name": "yarn-test-consumer",
   "version": "0.0.1",
   "description": "Testing Yarn",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/collinsauve/yarn-test.git"

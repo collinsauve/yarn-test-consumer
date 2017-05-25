@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"package@git+ssh://git@github.com:collinsauve/yarn-test-package.git":
+"yarn-test-package@git+ssh://git@github.com:collinsauve/yarn-test-package.git":
   version "0.0.1"
-  resolved "git+ssh://git@github.com:collinsauve/yarn-test-package.git#5111c00cade3edab099568ae4df90e746eb61908"
+  resolved "git+ssh://git@github.com:collinsauve/yarn-test-package.git#25f711546fd1f1312b02f9d577771dbcdcb103bb"
